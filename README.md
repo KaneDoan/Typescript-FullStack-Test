@@ -302,9 +302,11 @@ The service folder is named by [service name]-[service default port]. E.g. api-g
 
 ## How to Run
 
-- [Node.js](https://nodejs.org/en/) - v12 Required.(You can run nvm use to install the desired node version which already been defined in .nvmrc)
+- [Node.js](https://nodejs.org/en/) - v12 Required.
 - [Docker](https://docs.docker.com/install/) - latest
 - [Docker Compose](https://docs.docker.com/compose/install/) - latest
+- npm install
+- npm start
 
 ### Production
 
